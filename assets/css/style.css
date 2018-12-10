@@ -1,0 +1,11 @@
+h1 {
+    font-family: 'VT323', monospace;
+    font-size: 60px;
+}
+p {
+    font-family: 'VT323', monospace;
+    font-size: 40px;
+}
+.image {
+    float: left;
+}

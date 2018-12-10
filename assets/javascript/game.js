@@ -30,7 +30,7 @@ document.onkeyup = function (event) {
 
     // check if user have won the game
     if (wins == pcAnswer.length) {
-        alert("you win");
+        alert("YOU WIN!!!");
         reset();
     }
     // keep playing
